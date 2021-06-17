@@ -1,0 +1,4 @@
+#Tue Jun 15 14:20:55 ICT 2021
+base.0=C\:\\Users\\odieq\\OneDrive\\Documents\\carApp\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\out\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
